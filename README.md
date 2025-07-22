@@ -56,6 +56,7 @@ Meevo1/
 
 ---
 
-👩‍💻 Author
-Elena Odnodvortseva
-QA Automation Engineer | GitHub
+## 👩‍💻 Author
+
+**Elena Odnodvortseva**  
+QA Automation Engineer | [GitHub](https://github.com/Elenochka01)
